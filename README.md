@@ -8,8 +8,11 @@ if __name__ == "__main__":
 ```
 
 Coordinates x : 2
+
 Coordinates y : 5
+
 Vector u component x : 1
+
 Vector u component y : 1
 
 Directional Derivative Slope = -146.37
