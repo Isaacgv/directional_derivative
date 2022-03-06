@@ -7,6 +7,13 @@ if __name__ == "__main__":
     directional_derivative()
 ```
 
+```bash
+point_x = float(input("Coordinates x : "))
+point_y = float(input("Coordinates y : "))
+u_x = float(input("Vector u component x : "))
+u_y = float(input("Vector u component y : "))
+```
+
 Coordinates x : 2
 
 Coordinates y : 5
